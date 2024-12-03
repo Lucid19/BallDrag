@@ -35,7 +35,7 @@ r=0.03
 
 # physical constants
 C=0.47
-d=1.0
+d=1.293
 A=math.pi*(r**2)
 g=9.8
 k=(0.5*C*d*A)/m
